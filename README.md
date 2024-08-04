@@ -1,1 +1,6 @@
-# Ardan_Labs_Ultimate_Go_Software_Design_with_Kubernetes_2024
+# service5-video
+Version 5 of the Service Class
+
+Imports have to go down not up 
+
+inside Foundation package none of the files shoud import each other 
